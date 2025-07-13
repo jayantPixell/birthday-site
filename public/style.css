@@ -1,0 +1,22 @@
+body {
+  background-color: #fff3e0;
+  font-family: "Comic Sans MS", cursive;
+  text-align: center;
+  padding: 50px;
+  color: #5d4037;
+}
+
+h1 {
+  font-size: 3em;
+  color: #ff6f00;
+}
+
+img {
+  width: 300px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1.5em;
+}
